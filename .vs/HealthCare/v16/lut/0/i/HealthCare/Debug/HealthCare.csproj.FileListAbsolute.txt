@@ -1,0 +1,15 @@
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\mongocrypt.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\NUnit3.TestAdapter.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\NUnit3.TestAdapter.pdb
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\nunit.engine.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\nunit.engine.api.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\nunit.engine.core.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\HealthCare.dll.config
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\b\HealthCare.dll
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\i\HealthCare\Debug\HealthCare.csproj.AssemblyReference.cache
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\i\HealthCare\Debug\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\i\HealthCare\Debug\HealthCare.csproj.CopyComplete
+C:\Users\pk\source\repos\HealthCare\.vs\HealthCare\v16\lut\0\i\HealthCare\Debug\HealthCare.dll

@@ -1,0 +1,4 @@
+[12:34:28.922 Verbose] - BuildManager - Property 'UseHostCompilerIfAvailable' evaluates to 'false' for project 'C:\Users\pk\source\repos\HealthCare\HealthCare\HealthCare.csproj'. This may prevent Live Unit Testing from working correctly.
+[12:34:28.923 Verbose] - BuildManager - Property UseHostCompilerIfAvailable evaluated to 'false' via:
+UseHostCompilerIfAvailable: '$(SpecFlow_UseHostCompilerIfAvailable)' @ C:\Users\pk\source\repos\HealthCare\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.props:9
+  SpecFlow_UseHostCompilerIfAvailable: 'false' @ C:\Users\pk\source\repos\HealthCare\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.props:8
