@@ -22,7 +22,7 @@ namespace healthcare.Hooks
         AventStack.ExtentReports.ExtentTest step;
        
 
-        static string reportpath = System.IO.Directory.GetParent(@"C:\\Users\\manish.verma\\Downloads\\HealthCare\\HealthCare\\HealthCare\\Reports").FullName
+        static string reportpath = System.IO.Directory.GetParent(@"C:\\Users\\manish.verma\\source\\repos\\HealthCare\\HealthCare\\HealthCare\\Reports").FullName
                 + Path.DirectorySeparatorChar + "Result"
                 + Path.DirectorySeparatorChar + "Result" + DateTime.Now.ToString("ddMMyyyy HHmmss");
         private readonly IObjectContainer iob;
@@ -64,7 +64,7 @@ namespace healthcare.Hooks
             driver.Url = "https://melanatedhealthqa.web.app/";
             
             Screenshot screenshot = (driver as ITakesScreenshot).GetScreenshot();
-            screenshot.SaveAsFile("C:\\Users\\manish.verma\\Downloads\\HealthCare\\HealthCare\\HealthCare\\Screenshots\\Initial.png", ScreenshotImageFormat.Png);
+            screenshot.SaveAsFile(@"C:\\Users\\manish.verma\\source\\repos\\HealthCare\\HealthCare\\HealthCare\\Screenshots\\Initial.png", ScreenshotImageFormat.Png);
 
 
         }
@@ -95,7 +95,7 @@ namespace healthcare.Hooks
         public void AfterScenario()
         {
             Screenshot screenshot = (driver as ITakesScreenshot).GetScreenshot();
-            screenshot.SaveAsFile("C:\\Users\\manish.verma\\Downloads\\HealthCare\\HealthCare\\HealthCare\\Screenshots\\Final.png", ScreenshotImageFormat.Png);
+            screenshot.SaveAsFile(@"C:\\Users\\manish.verma\\source\\repos\\HealthCare\\HealthCare\\HealthCare\\Screenshots\\Final.png", ScreenshotImageFormat.Png);
             driver.Quit();
         }
 
